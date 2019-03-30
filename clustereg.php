@@ -24,8 +24,6 @@ $stmt -> execute();
 		}
 }
 ?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -70,7 +68,7 @@ $stmt -> execute();
 						<div class="row">
 							<div class="col-lg-12">
 								<h1 class="text-primary">Covenant University Cluster Registration Form</h1>
-							</div>
+						</div>
 					</div>
 
 						<!-- BEGIN FORM WIZARD -->
